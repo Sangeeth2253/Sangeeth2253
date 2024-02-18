@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc2OGZwNG8wemt1YmxtMjh0cXZxZnpnMGM1eXhpeWo5MnNnbjhrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="left">HEY! I'm Yasith Sathsara,a half-time freelancer and a web developer 💢.Working remotely since 2021 🔒</div>  
