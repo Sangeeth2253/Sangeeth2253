@@ -5,7 +5,7 @@
 ### <div align="left">HEY! I'm Yasith Sathsara,a half-time freelancer and a web developer 💢.Working remotely since 2021 🔒</div>  
 
 # ABOUT ME;
-⭕️ I’m currently doing my higher studies<br>💨 I’m currently learning java script/python and AI.<br>♻️ I’m looking to collaborate on web deisgn/web hosting/AI projects and NFTs.<br>💢 Ask me about anything related on cryptocurrency/NFT/photoshop and HTML.<br>🔰 Fun Fact: The hobby I could never give up is getting in trouble.
+⭕️ I’m currently doing my higher studies.<br>💨 I’m currently learning java script/python and AI.<br>♻️ I’m looking to collaborate on web deisgn/web hosting/AI projects and NFTs.<br>💢 Ask me about anything related on cryptocurrency/NFT/photoshop and HTML.<br>🔰 Fun Fact: The hobby I could never give up is getting in trouble.
 
 
 ## 🌐 Socials:
