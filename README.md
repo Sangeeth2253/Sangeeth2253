@@ -22,8 +22,6 @@
 <a href="https://github.com/Sangeeth2253" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/yasithsathsara_x/?igsh=MWRzN3gzZmZienFrMQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yasithsathsara_X" height="30" width="40" />
-</a>
 </div>  
 
 
@@ -74,6 +72,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sangeeth2253)<br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sangeeth2253&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://user-images.githubusercontent.com/47467468/88476802-fc964680-cf58-11ea-9413-64ac4c87fa38.png)
