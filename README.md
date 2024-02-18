@@ -22,8 +22,7 @@
 <a href="https://github.com/Sangeeth2253" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/yasithsathsara_x?igsh=MWRzN3gzZmZienFrMQ==" target="_blank">
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/yasithsathsara_x/?igsh=MWRzN3gzZmZienFrMQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yasithsathsara_X" height="30" width="40" />
 </a>
 </div>  
 
